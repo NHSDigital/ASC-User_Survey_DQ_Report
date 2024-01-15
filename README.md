@@ -1,6 +1,6 @@
 # Adult Social Care Data Quality Reports.
 
-The DQ reports are a summary of the councils survey submission. They show the aggregated totals alongside the councils data for last year and the England mean and values are flagged if the differ to the England mean. They provide a quick high level summary of the administrative and questionnaire data to allow councils to spot any potential issues in the data submitted
+The Adult Social Care Survey data quality reports are a summary of the councils survey submission. They show the aggregated totals alongside the councils data for last year and the England mean and values are flagged if the differ to the England mean. They provide a quick high level summary of the administrative and questionnaire data to allow councils to spot any potential issues in the data submitted
 
 
 # Initial package set up
@@ -42,7 +42,7 @@ After running the codes, you will get a prompt asking to enter the council code 
 # Author(s)
 Tomide Adeyeye, Liz Selfridge
 
-Repo Owner Contact Details: tomide.adeyeye1@nhs.net, liz.selfridge@nhs.net
+Repo Owner Contact Details: socialcare.statistics@nhs.net
 
 # Licence
 
