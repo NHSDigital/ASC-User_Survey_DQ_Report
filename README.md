@@ -1,4 +1,4 @@
-# Adult Social Care Data Quality Reports.
+# Adult Social Care Survey Data Quality Reports.
 
 The Adult Social Care Survey data quality reports are a summary of the councils survey submission. They show the aggregated totals alongside the councils data for last year and the England mean and values are flagged if the differ to the England mean. They provide a quick high level summary of the administrative and questionnaire data to allow councils to spot any potential issues in the data submitted
 
